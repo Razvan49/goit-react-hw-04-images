@@ -1,3 +1,4 @@
+import React from 'react';
 import { ColorRing } from 'react-loader-spinner'; // spinner animat din biblioteca
 
 // Folosit în componente unde trebuie să indicăm că datele se încarcă
